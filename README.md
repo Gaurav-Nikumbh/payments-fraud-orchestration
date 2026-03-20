@@ -32,7 +32,8 @@ A typical fraud system includes:
 
 ## Fraud Decision Flow
 
-![Fraud Flow](diagram/fraud-orchestration-flow.png)
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/f32b50ba-23ea-4335-83a1-4cea5978ec41" />
+
 
 Typical flow:
 
